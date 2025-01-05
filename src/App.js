@@ -21,7 +21,7 @@ const App = () => {
     return (
         <>
             <div className="container">
-                <h2>Speech to Text Converter</h2>
+                <h2>Speech to Text <span>Converter</span></h2>
                 <br/>
                 <p>A React project that lets you copy the text from a speech. Its a handy tool to speak about an idea instead of writing.</p>
 
